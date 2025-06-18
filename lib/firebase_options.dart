@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA5hfLPLfSoKi23nTIAUGpdicGOZ0XF4Vs',
-    appId: '1:492997799966:android:5010a1239cee6eb3f1be0f',
-    messagingSenderId: '492997799966',
-    projectId: 'viserpay',
-    storageBucket: 'viserpay.appspot.com',
+    apiKey: 'AIzaSyD39JT0xHICaWYYDJcOWDpKdYlcjCheTIY',
+    appId: '1:969429280007:android:1192eac4527ac271bb11a2',
+    messagingSenderId: '969429280007',
+    projectId: 'dooaoo-projet',
+    storageBucket: 'dooaoo-projet.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAGir4DgV6xVd2IFt6JYkfuVQTmzYRs5ac',
-    appId: '1:492997799966:ios:b5622191d3863082f1be0f',
-    messagingSenderId: '492997799966',
-    projectId: 'viserpay',
-    storageBucket: 'viserpay.appspot.com',
-    iosBundleId: 'dev.vlab.viserpayMerchant',
+    apiKey: 'AIzaSyCs_e3EqPGrPp60tTMRChEGXxoR_A7GuPc',
+    appId: '1:969429280007:ios:4eef0c38355b5b55bb11a2',
+    messagingSenderId: '969429280007',
+    projectId: 'dooaoo-projet',
+    storageBucket: 'dooaoo-projet.appspot.com',
+    iosBundleId: 'ci.dooaoo.merchant',
   );
 }

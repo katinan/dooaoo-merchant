@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "492997799966",
-    "project_id": "viserpay",
-    "storage_bucket": "viserpay.appspot.com"
+    "project_number": "969429280007",
+    "project_id": "dooaoo-projet",
+    "storage_bucket": "dooaoo-projet.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:492997799966:android:7502dd650a44db8cf1be0f",
+        "mobilesdk_app_id": "1:969429280007:android:1192eac4527ac271bb11a2",
         "android_client_info": {
-          "package_name": "dev.vlab.viserpay"
+          "package_name": "ci.dooaoo.merchant"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA5hfLPLfSoKi23nTIAUGpdicGOZ0XF4Vs"
+          "current_key": "AIzaSyD39JT0xHICaWYYDJcOWDpKdYlcjCheTIY"
         }
       ],
       "services": {
@@ -26,34 +26,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:492997799966:android:ebfcd426e11d8b01f1be0f",
+        "mobilesdk_app_id": "1:969429280007:android:6f2d8611e1b5bc1dbb11a2",
         "android_client_info": {
-          "package_name": "dev.vlab.viserpay_agent"
+          "package_name": "ci.dooaoo.user"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA5hfLPLfSoKi23nTIAUGpdicGOZ0XF4Vs"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:492997799966:android:5010a1239cee6eb3f1be0f",
-        "android_client_info": {
-          "package_name": "dev.vlab.viserpay_merchant"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyA5hfLPLfSoKi23nTIAUGpdicGOZ0XF4Vs"
+          "current_key": "AIzaSyD39JT0xHICaWYYDJcOWDpKdYlcjCheTIY"
         }
       ],
       "services": {

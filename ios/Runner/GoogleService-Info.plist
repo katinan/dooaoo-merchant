@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyAGir4DgV6xVd2IFt6JYkfuVQTmzYRs5ac</string>
+	<string>AIzaSyCs_e3EqPGrPp60tTMRChEGXxoR_A7GuPc</string>
 	<key>GCM_SENDER_ID</key>
-	<string>492997799966</string>
+	<string>969429280007</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>dev.vlab.viserpayMerchant</string>
+	<string>ci.dooaoo.merchant</string>
 	<key>PROJECT_ID</key>
-	<string>viserpay</string>
+	<string>dooaoo-projet</string>
 	<key>STORAGE_BUCKET</key>
-	<string>viserpay.appspot.com</string>
+	<string>dooaoo-projet.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:492997799966:ios:b5622191d3863082f1be0f</string>
+	<string>1:969429280007:ios:4eef0c38355b5b55bb11a2</string>
 </dict>
 </plist>

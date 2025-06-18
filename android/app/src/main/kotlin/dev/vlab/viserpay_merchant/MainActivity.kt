@@ -1,4 +1,4 @@
-package dev.vlab.viserpay_merchant
+package ci.dooaoo.merchant
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,5 +1,5 @@
 class MyImages {
-  static const String appColorLogo = "assets/images/logo/app_color_logo.png";
+  static const String appColorLogo = "assets/images/logo/app_logo_white.jpg";
   static const String appLogo = "assets/images/logo/app_logo_white.png";
   static const String placeHolderImage = "assets/images/place_holder.png";
 

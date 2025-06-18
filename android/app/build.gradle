@@ -44,7 +44,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "dev.vlab.viserpay_merchant"
+        applicationId "ci.dooaoo.merchant"
         minSdkVersion 21
         targetSdkVersion 34
         versionCode flutterVersionCode.toInteger()

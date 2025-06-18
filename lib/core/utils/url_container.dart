@@ -1,5 +1,5 @@
 class UrlContainer {
-  static const String domainUrl = 'https://script.viserlab.com/viserpay';
+  static const String domainUrl = 'https://leji.cc';
   static const String baseUrl = '$domainUrl/api/';
 
   static const String registrationEndPoint = 'merchant/register';
